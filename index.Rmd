@@ -1,6 +1,8 @@
 ---
 title: "Biol812 Assignment"
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
 ---
 
 #When should you use Git for a project?
